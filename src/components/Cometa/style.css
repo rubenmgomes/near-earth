@@ -1,0 +1,25 @@
+.cometa{
+    background-color: #FFF;
+    text-align: center;
+    padding: 1.5rem;
+    color: #0B3D91;
+    border-radius: .5rem;
+}
+
+.cometa .cometa-diametro{
+    margin: auto;
+    background-color: #FC3D21;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+}
+
+.cometa h2{
+    font-size: 1.333rem;
+    margin-bottom: 1rem;
+}
+
+.cometa .cometa-info h3{
+    color: #FC3D21;
+}
